@@ -8,7 +8,7 @@ uint32_t getColorHexFromChar(char c);
 
 int main(int argc, char **argv) {
     if (argc < 2) {
-        fprintf(stderr, "expected: ./hex_to_arr <filepath>\n");
+        fprintf(stderr, "expected: %s <filepath>\n", argv[0]);
         return EXIT_ERR;
     }
 

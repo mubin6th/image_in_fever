@@ -16,3 +16,12 @@ alt="Preview image.">
 ## Building
 To build, run `make` at the root of the project. Building it on linux
 is tested. **Building in Windows is not tested**.
+
+## Limitations
+Currently, `iif` is slow, it takes around ~5seconds to create output
+image if the resolution is high enough.
+
+
+Some images may not look good after running `iif`. This is mainly due
+to the lack of colors (in my opinion). But if we increase the color
+range, we will also increase process time.
