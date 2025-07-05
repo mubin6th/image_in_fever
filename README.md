@@ -4,7 +4,7 @@
 `iif` uses a technic known as image quantization, a way to limit
 image's total color range. By doing so, we can choose specific colors
 and represent the original image with those colors. In `iif`, I've
-selected a set of sepia colors & the
+selected a set of sepia colors and extended the
 [gruvbox-material](https://github.com/sainnhe/gruvbox-material)
 colorscheme.
 
