@@ -10,7 +10,7 @@ colorscheme.
 
 ## Preview
 <img
-src="https://github.com/mubin6th/image_in_fever/blob/main/readme_res/preview.jpg?raw=true"
+src="https://github.com/mubin6th/image_in_fever/blob/master/readme_res/preview.jpg?raw=true"
 alt="Preview image.">
 
 ## Building
